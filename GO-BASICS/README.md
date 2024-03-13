@@ -14,6 +14,8 @@ ejemplo:
 go run app.go
 ```
 
+Si tienes un solo archivo go puedes ejecutar `go run .`
+
 ### Módulos en Go
 
 Los módulos se crean para poder hacer un build y crear un archivo ejecutable `(.exe)`, que pueda correr en cualquier PC
